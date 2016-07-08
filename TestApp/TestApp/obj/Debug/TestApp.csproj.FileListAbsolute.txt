@@ -1,0 +1,7 @@
+C:\Users\Andrew\.ssh\Ted-Andrew\TestApp\TestApp\bin\TestApp.dll
+C:\Users\Andrew\.ssh\Ted-Andrew\TestApp\TestApp\bin\TestApp.pdb
+C:\Users\Andrew\.ssh\Ted-Andrew\TestApp\TestApp\bin\EntityFramework.dll
+C:\Users\Andrew\.ssh\Ted-Andrew\TestApp\TestApp\bin\EntityFramework.xml
+C:\Users\Andrew\.ssh\Ted-Andrew\TestApp\TestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\.ssh\Ted-Andrew\TestApp\TestApp\obj\Debug\TestApp.dll
+C:\Users\Andrew\.ssh\Ted-Andrew\TestApp\TestApp\obj\Debug\TestApp.pdb
